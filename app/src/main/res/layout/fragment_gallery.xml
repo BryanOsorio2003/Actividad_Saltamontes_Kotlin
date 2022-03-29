@@ -84,66 +84,71 @@
         android:id="@+id/nota1"
         android:layout_width="166dp"
         android:layout_height="41dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
         android:ems="10"
         android:hint="Nota 1"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.046" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <EditText
         android:id="@+id/nota2"
         android:layout_width="166dp"
         android:layout_height="41dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="8dp"
         android:ems="10"
-        android:inputType="textPersonName"
         android:hint="nota 2"
+        android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.115" />
+        app:layout_constraintVertical_bias="0.001" />
 
     <EditText
         android:id="@+id/nota3"
         android:layout_width="166dp"
         android:layout_height="41dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginTop="112dp"
+        android:layout_marginEnd="8dp"
         android:ems="10"
         android:hint="nota 3"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.185" />
+        app:layout_constraintVertical_bias="0.003" />
 
     <EditText
         android:id="@+id/nota4"
         android:layout_width="166dp"
         android:layout_height="41dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginTop="152dp"
+        android:layout_marginEnd="8dp"
         android:ems="10"
         android:hint="nota 4"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.26" />
+        app:layout_constraintVertical_bias="0.005" />
 
     <EditText
         android:id="@+id/nota5"
         android:layout_width="166dp"
         android:layout_height="41dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginTop="192dp"
+        android:layout_marginEnd="8dp"
         android:ems="10"
         android:hint="nota 5"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.342" />
+        app:layout_constraintVertical_bias="0.008" />
 
     <Button
         android:id="@+id/btnNotas"

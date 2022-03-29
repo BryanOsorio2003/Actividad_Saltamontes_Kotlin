@@ -11,9 +11,6 @@
             android:id="@+id/nav_gallery"
             android:title="@string/menu_gallery" />
         <item
-            android:id="@+id/nav_showAll"
-            android:title="@string/menu_showAll" />
-        <item
             android:id="@+id/nav_slideshow"
             android:title="@string/menu_slideshow" />
     </group>
